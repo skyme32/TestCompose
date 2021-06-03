@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">TestCompose</string>
 
+    <!-- String MainActivity-->
     <string name="desc_image">Imagen paisaje de cabecera</string>
+    <string name="text_desc">Un dia fenomenal, la puesta de sol más increible del mundo</string>
+    <string name="text_location">Barcelona, Catalunya</string>
+    <string name="text_date">Junio 2021</string>
 </resources>
