@@ -5,8 +5,12 @@ Examples Jetpack Compose: https://github.com/android/compose-samples
 # Thinking in Compose
 https://developer.android.com/jetpack/compose/mental-model?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23article-https%3A%2F%2Fdeveloper.android.com%2Fjetpack%2Fcompose%2Fmental-model
 
-# Image Preview
+# Basic Compose
+https://developer.android.com/codelabs/jetpack-compose-basics?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics#8
 
+# Image Preview
+![Default Preview 1](https://github.com/skyme32/TestCompose/blob/master/img/defaultPreview2.png)
+![Default Preview 2](https://github.com/skyme32/TestCompose/blob/master/img/defaultPreview3.png)
 
 # License
 ```
